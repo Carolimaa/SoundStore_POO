@@ -1,0 +1,14 @@
+C:\Users\CarolineVitóriaCoelh\source\repos\SoundStore_POO\SoundStore_POO\bin\Debug\net8.0\SoundStore_POO.exe
+C:\Users\CarolineVitóriaCoelh\source\repos\SoundStore_POO\SoundStore_POO\bin\Debug\net8.0\SoundStore_POO.deps.json
+C:\Users\CarolineVitóriaCoelh\source\repos\SoundStore_POO\SoundStore_POO\bin\Debug\net8.0\SoundStore_POO.runtimeconfig.json
+C:\Users\CarolineVitóriaCoelh\source\repos\SoundStore_POO\SoundStore_POO\bin\Debug\net8.0\SoundStore_POO.dll
+C:\Users\CarolineVitóriaCoelh\source\repos\SoundStore_POO\SoundStore_POO\bin\Debug\net8.0\SoundStore_POO.pdb
+C:\Users\CarolineVitóriaCoelh\source\repos\SoundStore_POO\SoundStore_POO\obj\Debug\net8.0\SoundStore_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarolineVitóriaCoelh\source\repos\SoundStore_POO\SoundStore_POO\obj\Debug\net8.0\SoundStore_POO.AssemblyInfoInputs.cache
+C:\Users\CarolineVitóriaCoelh\source\repos\SoundStore_POO\SoundStore_POO\obj\Debug\net8.0\SoundStore_POO.AssemblyInfo.cs
+C:\Users\CarolineVitóriaCoelh\source\repos\SoundStore_POO\SoundStore_POO\obj\Debug\net8.0\SoundStore_POO.csproj.CoreCompileInputs.cache
+C:\Users\CarolineVitóriaCoelh\source\repos\SoundStore_POO\SoundStore_POO\obj\Debug\net8.0\SoundStore_POO.dll
+C:\Users\CarolineVitóriaCoelh\source\repos\SoundStore_POO\SoundStore_POO\obj\Debug\net8.0\refint\SoundStore_POO.dll
+C:\Users\CarolineVitóriaCoelh\source\repos\SoundStore_POO\SoundStore_POO\obj\Debug\net8.0\SoundStore_POO.pdb
+C:\Users\CarolineVitóriaCoelh\source\repos\SoundStore_POO\SoundStore_POO\obj\Debug\net8.0\SoundStore_POO.genruntimeconfig.cache
+C:\Users\CarolineVitóriaCoelh\source\repos\SoundStore_POO\SoundStore_POO\obj\Debug\net8.0\ref\SoundStore_POO.dll
